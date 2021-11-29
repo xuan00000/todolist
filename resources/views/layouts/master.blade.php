@@ -47,5 +47,6 @@
         </form>
     </div>
 </nav>
+@yield('content')
 </body>
 </html><?php
